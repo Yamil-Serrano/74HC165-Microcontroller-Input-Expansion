@@ -77,9 +77,11 @@ See `src/main.cpp` for the full implementation.
 
 ---
 
-## Diagrams
+## Diagram
 
-_Coming soon._  
+![image](https://github.com/user-attachments/assets/7a26a4ef-fbca-4140-bd5b-d94dc830f609)
+
+
 
 ---
 
