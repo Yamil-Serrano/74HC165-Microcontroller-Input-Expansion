@@ -53,9 +53,9 @@ By toggling these lines, you can read 8 (or more, if cascaded) inputs using just
 
 | 74HC165 Pin | Connected To (ESP8266) | Purpose         |
 |-------------|-------------------------|-----------------|
-| QH (9)      | D2 (GPIO4)              | Serial Data Out |
-| CLK (2)     | D1 (GPIO5)              | Clock           |
-| PL (1)      | D5 (GPIO14)             | Parallel Load   |
+| QH (9)      | D5 (GPIO14)             | Serial Data Out |
+| CLK (2)     | D2 (GPIO4)              | Clock           |
+| PL (1)      | D1 (GPIO5)              | Parallel Load   |
 | CE (15)     | GND                     | Enable (Active Low) |
 | GND         | GND                     | Ground          |
 | VCC         | 3.3V or 5V              | Power Supply    |
