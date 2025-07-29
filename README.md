@@ -1,4 +1,4 @@
-# 74HC165-ESP8266-Input-Expansion
+# 74HC595-Microcontroller-Input-Expansion
 
 This project explores how to use the **74HC165 shift register** to expand the number of digital **inputs** available on an **ESP8266**, using only 3 GPIO pins. It’s built with **PlatformIO**, but it’s also compatible with the **Arduino IDE**.
 
@@ -10,8 +10,8 @@ The example reads 8 parallel inputs (like buttons or switches) and prints their 
 
 This repository is the **second part** of a series exploring how to expand the I/O capabilities of microcontrollers using shift registers:
 
-- **Part 1**: [74HC595 – Output Expansion](https://github.com/Yamil-Serrano/74HC595-ESP8266-Output-Expansion)  
-- **Part 2**: [74HC165 – Input Expansion (this repo)](https://github.com/Yamil-Serrano/74HC165-ESP8266-Input-Expansion)
+- **Part 1**: [74HC595-Microcontroller-Output-Expansion](https://github.com/Yamil-Serrano/74HC595-Microcontroller-Output-Expansion)  
+- **Part 2**: [74HC165-Microcontroller-Input-Expansion (this repo)](https://github.com/Yamil-Serrano/74HC595-Microcontroller-Input-Expansion)
 
 In Part 1, I explain how to use the 74HC595 to control 8 outputs using serial data.  
 This project is the *reverse* — it reads multiple digital inputs using the **74HC165** via **parallel-to-serial** communication.
